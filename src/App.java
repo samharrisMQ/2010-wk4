@@ -34,7 +34,7 @@ public class App {
         int mid = 0;
         int low = 0;
         int high = arr.length-1;
-
+// a
         while(low <= high) {
             // find mid
             mid = (low+high)/2;
